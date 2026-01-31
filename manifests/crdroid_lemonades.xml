@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- Device tree -->
+    <project name="LineageOS/android_device_oneplus_lemonades"
+             path="device/oneplus/lemonades"
+             revision="lineage-23" />
+
+    <!-- Kernel -->
+    <project name="LineageOS/android_kernel_oneplus_sm8250"
+             path="kernel/oneplus/sm8250"
+             revision="lineage-23" />
+
+    <!-- Vendor blobs -->
+    <project name="TheMuppets/proprietary_vendor_oneplus"
+             path="vendor/oneplus"
+             revision="lineage-23" />
+
+</manifest>
